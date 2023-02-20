@@ -1,16 +1,25 @@
 ### Hi there 👋
 
-<!--
-**YoavNordmann/YoavNordmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Yoav Nordmannn</h1>
+<h3 align="center">A Tech Lead, Architect and Mentor</h3>
 
-Here are some ideas to get you started:
+I’m currently working at [Tikal Knowledge](https://www.tikalk.com/) as a Group Leader, servicing my clients as a Tech Leader, Architect and Mentor.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💬 Ask me about
+- Microservice Architecture
+- Backend development (Python, Java, Scala)
+- Data Engineering
+- DataOps
+- DevOps
+- K8s
+- Cloud Architecture
+- Design Patterns
+
+## 🌱 I enjoy
+- Programming
+- Researching and learning a new language or technology
+- Watch a system go to production
+
+## ⚡ Fun fact
+- I am originally from Switzerland
+- I speak Hebrew, English, German and French
