@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Yoav Nordmannn</h1>
 <h3 align="center">A Tech Lead, Architect and Mentor</h3>
 
